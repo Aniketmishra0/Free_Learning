@@ -1,5 +1,5 @@
 # *** Zero to Hero ***
-# Computer Science Learning Resources (To get a Job in Tech)
+# Programming Learning Resources | 100% Free | All Links In One Place |
 
 Assuming you get to this place an year or atleast 6 months before you start your job search, the resources below will help you get a job regardless of your location/familiarity with computer science.
 
